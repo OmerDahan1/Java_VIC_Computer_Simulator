@@ -35,7 +35,7 @@ The VIC Computer Simulator project consists of several Java classes designed to 
 1. **Setup**:
    - Ensure Java Development Kit (JDK) is installed on your system.
    - Compile all `.java` files in the project directory.
-   - The code of `StdDraw.java` and `StdIn.java` is available [here](https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java), place it in the same directory as the Java files.
+   - The code of `StdIn.java` is available [here](https://introcs.cs.princeton.edu/java/stdlib/StdDraw.java), place it in the same directory as the Java files.
 
 
 2. **Execution**:
